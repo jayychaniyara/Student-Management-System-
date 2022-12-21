@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM.Business", "SM.Business\SM.Business.csproj", "{1230562B-CE71-41B3-8A97-84EEB16B32BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM.Data", "SM.Data\SM.Data.csproj", "{16F06575-F0CF-4676-B4C3-19ED160F2FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM.Client", "SM.Client\SM.Client.csproj", "{23C9F249-CB2A-41ED-AEDE-FD1E3D641F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1230562B-CE71-41B3-8A97-84EEB16B32BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1230562B-CE71-41B3-8A97-84EEB16B32BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1230562B-CE71-41B3-8A97-84EEB16B32BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1230562B-CE71-41B3-8A97-84EEB16B32BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F06575-F0CF-4676-B4C3-19ED160F2FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F06575-F0CF-4676-B4C3-19ED160F2FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F06575-F0CF-4676-B4C3-19ED160F2FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F06575-F0CF-4676-B4C3-19ED160F2FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C9F249-CB2A-41ED-AEDE-FD1E3D641F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C9F249-CB2A-41ED-AEDE-FD1E3D641F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C9F249-CB2A-41ED-AEDE-FD1E3D641F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C9F249-CB2A-41ED-AEDE-FD1E3D641F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ACC91BD-40B0-47FA-871E-3D3FF349FBED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\bin\Debug\net6.0\SM.Data.deps.json
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\bin\Debug\net6.0\SM.Data.dll
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\bin\Debug\net6.0\SM.Data.pdb
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\bin\Debug\net6.0\SM.Business.dll
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\bin\Debug\net6.0\SM.Business.pdb
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.csproj.AssemblyReference.cache
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.AssemblyInfoInputs.cache
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.AssemblyInfo.cs
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.csproj.CoreCompileInputs.cache
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.csproj.CopyComplete
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.dll
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\refint\SM.Data.dll
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\SM.Data.pdb
+C:\Users\jay.chaniyara\Documents\Project\StudentManagementSystem\SM.Data\obj\Debug\net6.0\ref\SM.Data.dll
